@@ -30,3 +30,28 @@ Feel free to browse my repositories, star the projects you find interesting, and
 - **Automation**: Terraform, Ansible, CloudFormation
 - **AI/ML Tools**: TensorFlow, PyTorch, MLflow, Docker for AI/ML
 - **Monitoring**: Prometheus, Grafana, Datadog, ELK Stack
+
+
+
+
+
+
+## 🛠️ **Tech Stack** 🌐
+
+### **Languages:**
+![Python](https://img.icons8.com/color/48/000000/python.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![Java](https://img.icons8.com/color/48/000000/java.png) ![Go](https://img.icons8.com/color/48/000000/go.png)
+
+### **Databases:**
+![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png) ![MySQL](https://img.icons8.com/color/48/000000/mysql.png) ![Redis](https://img.icons8.com/color/48/000000/redis.png)
+
+### **Tools:**
+![Docker](https://img.icons8.com/color/48/000000/docker.png) ![Kubernetes](https://img.icons8.com/color/48/000000/kubernetes.png) ![Terraform](https://img.icons8.com/color/48/000000/terraform.png) ![Ansible](https://img.icons8.com/color/48/000000/ansible.png)
+
+### **Operating Systems:**
+![Linux](https://img.icons8.com/color/48/000000/linux.png) ![Windows](https://img.icons8.com/color/48/000000/windows-10.png) ![macOS](https://img.icons8.com/color/48/000000/mac-os.png)
+
+### **Cloud:**
+![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) ![Azure](https://img.icons8.com/color/48/000000/azure-1.png) ![Google Cloud](https://img.icons8.com/color/48/000000/google-cloud.png)
+
+### **Other Tools:**
+![Git](https://img.icons8.com/color/48/000000/git.png) ![Jenkins](https://img.icons8.com/color/48/000000/jenkins.png) ![Grafana](https://img.icons8.com/color/48/000000/grafana.png)
